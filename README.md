@@ -6,7 +6,7 @@
     - Move around
     - Fight enemies
     - Collect armor, weapons and food/heals
-    - Use a cheatcode with the developer's name ;)
+    - Use a cheatcode with the developer's name
 
 ##  Technologies used
 
