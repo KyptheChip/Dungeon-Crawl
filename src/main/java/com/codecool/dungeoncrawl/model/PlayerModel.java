@@ -1,5 +1,6 @@
 package com.codecool.dungeoncrawl.model;
 
+import com.codecool.dungeoncrawl.logic.actors.Actor;
 import com.codecool.dungeoncrawl.logic.actors.Player;
 
 public class PlayerModel extends BaseModel {
@@ -15,13 +16,13 @@ public class PlayerModel extends BaseModel {
     }
 
     public PlayerModel(Player player) {
-        this.playerName = player.getName();
+        this.playerName = player.getPlayerName();
+        System.out.println(player.getPlayerName());
         this.x = player.getX();
         this.y = player.getY();
-
         this.hp = player.getHealth();
-
     }
+
 
     public String getPlayerName() {
         return playerName;
