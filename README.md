@@ -1,5 +1,8 @@
 # Dungeon Crawl
 
+
+<img src="sample_data/screenshot.png" alt="">
+
 ## Story
 
 - Dungeon Crawl is a roguelike(or dungeon crawler) game that sets you, the Hero, inside the Dungeon of Doom. You can:
