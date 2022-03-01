@@ -6,4 +6,4 @@ bin/
 .classpath
 .settings/
 out/
-resources/dungeon-crawl.properties
+resources/application.properties
